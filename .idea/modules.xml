@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Jshop/Jshop.iml" filepath="$PROJECT_DIR$/Jshop/Jshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jshop/Jshop-common/Jshop-common.iml" filepath="$PROJECT_DIR$/Jshop/Jshop-common/Jshop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jshop/Jshop-logging/Jshop-logging.iml" filepath="$PROJECT_DIR$/Jshop/Jshop-logging/Jshop-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jshop/Jshop-mapper/Jshop-mapper.iml" filepath="$PROJECT_DIR$/Jshop/Jshop-mapper/Jshop-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jshop/Jshop-service/Jshop-service.iml" filepath="$PROJECT_DIR$/Jshop/Jshop-service/Jshop-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jshop/Jshop-utils/Jshop-utils.iml" filepath="$PROJECT_DIR$/Jshop/Jshop-utils/Jshop-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jshop/Jshop-web/Jshop-web.iml" filepath="$PROJECT_DIR$/Jshop/Jshop-web/Jshop-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jshop-backend-end.iml" filepath="$PROJECT_DIR$/.idea/jshop-backend-end.iml" />
+    </modules>
+  </component>
+</project>

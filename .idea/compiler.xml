@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Jshop-common" />
+        <module name="Jshop-service" />
+        <module name="Jshop-utils" />
+        <module name="Jshop-web" />
+        <module name="Jshop-logging" />
+        <module name="Jshop-mapper" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Jshop" target="1.8" />
+      <module name="Jshop-common" target="1.8" />
+      <module name="Jshop-generator" target="1.8" />
+      <module name="Jshop-logging" target="1.8" />
+      <module name="Jshop-mapper" target="1.8" />
+      <module name="Jshop-mp" target="1.8" />
+      <module name="Jshop-service" target="1.8" />
+      <module name="Jshop-utils" target="1.8" />
+      <module name="Jshop-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Jshop-common" options="-parameters" />
+      <module name="Jshop-generator" options="-parameters" />
+      <module name="Jshop-logging" options="-parameters" />
+      <module name="Jshop-mapper" options="-parameters" />
+      <module name="Jshop-mp" options="-parameters" />
+      <module name="Jshop-service" options="-parameters" />
+      <module name="Jshop-utils" options="-parameters" />
+      <module name="Jshop-web" options="-parameters" />
+    </option>
+  </component>
+</project>
